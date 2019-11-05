@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/tsp-loc-bnb.dir/tsp-loc-bnb.cpp.o  -o tsp-loc-bnb /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

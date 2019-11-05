@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/leonardo/Semestre8/supercomp/projeto-02/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -std=c++11 -fopenmp -O3 -o CMakeFiles/tsp-par.dir/tsp-par.cpp.o -c /home/leonardo/Semestre8/supercomp/projeto-02/tsp-par.cpp",
+  "file": "/home/leonardo/Semestre8/supercomp/projeto-02/tsp-par.cpp"
+},
+{
+  "directory": "/home/leonardo/Semestre8/supercomp/projeto-02/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -std=c++11 -O3 -o CMakeFiles/tsp-seq.dir/tsp-seq.cpp.o -c /home/leonardo/Semestre8/supercomp/projeto-02/tsp-seq.cpp",
+  "file": "/home/leonardo/Semestre8/supercomp/projeto-02/tsp-seq.cpp"
+},
+{
+  "directory": "/home/leonardo/Semestre8/supercomp/projeto-02/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -std=c++11 -fopenmp -O3 -o CMakeFiles/tsp-bnb.dir/tsp-bnb.cpp.o -c /home/leonardo/Semestre8/supercomp/projeto-02/tsp-bnb.cpp",
+  "file": "/home/leonardo/Semestre8/supercomp/projeto-02/tsp-bnb.cpp"
+},
+{
+  "directory": "/home/leonardo/Semestre8/supercomp/projeto-02/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -std=c++11 -fopenmp -O3 -o CMakeFiles/tsp-loc.dir/tsp-loc.cpp.o -c /home/leonardo/Semestre8/supercomp/projeto-02/tsp-loc.cpp",
+  "file": "/home/leonardo/Semestre8/supercomp/projeto-02/tsp-loc.cpp"
+},
+{
+  "directory": "/home/leonardo/Semestre8/supercomp/projeto-02/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -std=c++11 -fopenmp -O3 -o CMakeFiles/tsp-loc-bnb.dir/tsp-loc-bnb.cpp.o -c /home/leonardo/Semestre8/supercomp/projeto-02/tsp-loc-bnb.cpp",
+  "file": "/home/leonardo/Semestre8/supercomp/projeto-02/tsp-loc-bnb.cpp"
+}
+]

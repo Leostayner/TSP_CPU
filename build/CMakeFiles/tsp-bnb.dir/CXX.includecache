@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonardo/Semestre8/supercomp/projeto-02/tsp-bnb.cpp
+iostream
+-
+math.h
+-
+string
+-
+vector
+-
+utility
+-
+omp.h
+-
+iomanip
+-
+chrono
+-
+

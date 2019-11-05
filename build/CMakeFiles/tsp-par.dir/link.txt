@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/tsp-par.dir/tsp-par.cpp.o  -o tsp-par /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

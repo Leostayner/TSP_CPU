@@ -1,0 +1,7 @@
+/home/leonardo/Semestre8/supercomp/projeto-02/build/CMakeFiles/rebuild_cache.dir
+/home/leonardo/Semestre8/supercomp/projeto-02/build/CMakeFiles/tsp-par.dir
+/home/leonardo/Semestre8/supercomp/projeto-02/build/CMakeFiles/tsp-seq.dir
+/home/leonardo/Semestre8/supercomp/projeto-02/build/CMakeFiles/tsp-bnb.dir
+/home/leonardo/Semestre8/supercomp/projeto-02/build/CMakeFiles/tsp-loc.dir
+/home/leonardo/Semestre8/supercomp/projeto-02/build/CMakeFiles/tsp-loc-bnb.dir
+/home/leonardo/Semestre8/supercomp/projeto-02/build/CMakeFiles/edit_cache.dir
